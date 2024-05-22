@@ -1,3 +1,4 @@
 deep-translator==1.0.3
 Kivy==1.11.1
 Kivy-Garden==0.1.4
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
